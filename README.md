@@ -1,2 +1,2 @@
 # mi_primer_repositorio
- repositorio para aprender a crear
+ repositorio para aprender a manejar GitHub
